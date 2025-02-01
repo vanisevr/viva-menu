@@ -1,12 +1,12 @@
 ﻿using HarmonyLib;
-using iiMenu.Notifications;
+using viva.Notifications;
 using Photon.Pun;
 using Photon.Realtime;
 using System.IO;
 using UnityEngine;
 using static iiMenu.Menu.Main;
 
-namespace iiMenu.Patches
+namespace viva.Patches
 {
     [HarmonyPatch(typeof(MonoBehaviourPunCallbacks), "OnPlayerEnteredRoom")]
     public class JoinPatch
@@ -18,9 +18,9 @@ namespace iiMenu.Patches
                 NotifiLib.SendNotification("<color=grey>[</color><color=green>JOIN</color><color=grey>] </color><color=white>Name: " + newPlayer.NickName + "</color>");
                 if (customSoundOnJoin)
                 {
-                    if (!Directory.Exists("iisStupidMenu"))
+                    if (!Directory.Exists("viva-menu"))
                     {
-                        Directory.CreateDirectory("iisStupidMenu");
+                        Directory.CreateDirectory("viva-menu");
                     }
                     File.WriteAllText("iisStupidMenu/iiMenu_CustomSoundOnJoin.txt", "PlayerJoin");
                 }
