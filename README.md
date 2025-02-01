@@ -3,8 +3,8 @@ First Mod Menu Made By Polish Guy
 
   
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/aOzcbjM.png"></a>
-  <a href="#"><img src="https://i.imgur.com/W2ZjSPs.png"></a>
+  <a href="#"><img src="https://imgur.com/a/1VnEI45"></a>
+  <a href="#"><img src="https://imgur.com/a/1VnEI45"></a>
 </p>
 
 ---
