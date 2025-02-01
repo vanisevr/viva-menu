@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using UnityEngine;
 
-namespace iiMenu.Patches
+namespace viva.Patches
 {
     [HarmonyPatch(typeof(VRRig), "UpdateFriendshipBracelet")]
     public class BraceletPatch
