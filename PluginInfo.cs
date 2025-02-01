@@ -2,9 +2,9 @@
 {
     public class PluginInfo
     {
-        public const string GUID = "org.iidk.gorillatag.iimenu";
-        public const string Name = "ii's Stupid Menu";
-        public const string Description = "Created by @goldentrophy with love <3";
-        public const string Version = "5.4.0";
+        public const string GUID = "org.vanisevr.gorillatag.viva-menu";
+        public const string Name = "viva-menu";
+        public const string Description = "Created by @vanisevr with love <3";
+        public const string Version = "1.0.0";
     }
 }
