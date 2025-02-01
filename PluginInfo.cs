@@ -1,4 +1,4 @@
-﻿namespace iiMenu
+﻿namespace viva menu
 {
     public class PluginInfo
     {
