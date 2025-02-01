@@ -9,11 +9,7 @@ First Mod Menu Made By Polish Guy
 
 ---
 
-<p align="center">
-	<a href="[[[https://github.com/iiDk-the-actual/iis.Stupid.Menu](https://github.com/vanisevr/viva-menu)](https://github.com/vanisevr/viva-menu)](https://github.com/vanisevr/viva-menu)/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="[https://github.com/iiDk-the-actual/iis.Stupid.Menu](https://github.com/vanisevr/viva-menu)/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
-	<a href="[https://discord.gg/iidk](https://github.com/vanisevr/viva-menu)"><img src="https://img.shields.io/badge/discord-11497%20online-blueviolet?style=for-the-badge"></a>
-</p>
+
 
 ---
 
